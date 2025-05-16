@@ -23,10 +23,12 @@ header{
     
 }
 
-#veios{
+img#veios{
+    width: 100px;
     left:20px;
 }
-#lokos{
+img#lokos{
+    width: 100px;
     left:-17px;
 }
 

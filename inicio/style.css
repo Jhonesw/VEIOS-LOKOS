@@ -36,7 +36,9 @@ header{
     margin-left: 14px;
     height: 110px;
     z-index: 1;
+    
 }
+
     #texto{
         display: flex;
         justify-content: space-between;
@@ -47,12 +49,12 @@ header{
        
         
     }
-#veios{
-    width: 70px;
+img#veios{
+    width: 100px;
     left:20px;
 }
-#lokos{
-    width: 70px;
+img#lokos{
+    width: 100px;
     left:-17px;
 }
 /*------------------------------  main  ---------------------------------------------------*/

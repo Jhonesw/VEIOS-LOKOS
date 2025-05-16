@@ -23,13 +23,14 @@ header{
     
 }
 
-#veios{
+img#veios{
+    width: 100px;
     left:20px;
 }
-#lokos{
+img#lokos{
+    width: 100px;
     left:-17px;
 }
-
 .img{
     position: relative;
     margin-left: 12px;
