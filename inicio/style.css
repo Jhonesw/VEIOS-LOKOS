@@ -23,6 +23,7 @@ header{
     
 }
 
+
 .img{
     position: relative;
     margin-left: 12px;
@@ -46,7 +47,14 @@ header{
        
         
     }
-
+#veios{
+    width: 70px;
+    left:20px;
+}
+#lokos{
+    width: 70px;
+    left:-17px;
+}
 /*------------------------------  main  ---------------------------------------------------*/
 
 

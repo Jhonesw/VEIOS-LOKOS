@@ -23,7 +23,12 @@ header{
     background: linear-gradient(silver,black);
     
 }
-
+#veios{
+    left:20px;
+}
+#lokos{
+    left:-17px;
+}
 .img{
     position: relative;
     margin-left: 12px;
